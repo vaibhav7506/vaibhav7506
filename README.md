@@ -242,8 +242,6 @@ A workflow automation platform letting users connect external services and build
 | Certified: Java | Programming Using Java — Infosys |
 | Certified: Backend APIs | Backend REST API with Node.js — Udemy |
 | Certified: NoSQL | NoSQL — Infosys |
-| Team Captain | University Football Team, MMMUT — led inter-college tournament strategy |
-| Event Organizer | Sports Sub-Council, MMMUT — coordinated 15+ events, 200+ participants |
 
 </div>
 

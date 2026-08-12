@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F5D4,100:FF3B81&height=190&section=header&text=VAIBHAV%20SHARMA&fontSize=48&fontColor=0B0F19&fontAlignY=38&desc=APPLIED%20AI%20ENGINEER%20%2F%2F%20LVL.2026%20GRADUATE&descAlignY=58&descSize=17&descColor=0B0F19&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F5D4,100:FF3B81&height=190&section=header&text=VAIBHAV%20SHARMA&fontSize=48&fontColor=00F5D4&fontAlignY=38&desc=APPLIED%20AI%20ENGINEER%20%2F%2F%20LVL.2026%20GRADUATE&descAlignY=58&descSize=17&descColor=FF3B81&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=%24+system.boot()%3B;PLAYER%3A+Vaibhav+Sharma;CLASS%3A+Applied+AI+Engineer;LOADOUT%3A+React+%2B+Node+%2B+LLMs+%2B+Cloudflare;STATUS%3A+Open+to+New+Quests+(Job+Offers)" />
 

@@ -495,6 +495,8 @@ I'm looking for my first full-time engineering role and teams building thoughtfu
 
 *“Ship it, evaluate it, harden it — then ship again.”*
 
+Strong Beliver of "Karne Walo Ka kuch Na kuch Ho hi Jaata Hai"
+
 ![Profile views](https://komarev.com/ghpvc/?username=vaibhav7506&label=PROFILE%20VISITS&color=39C8FF&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/vaibhav7506?label=FOLLOWERS&style=flat-square&color=A78BFA&labelColor=0C1725)
 ![Stars](https://img.shields.io/github/stars/vaibhav7506?affiliations=OWNER&label=REPO%20STARS&style=flat-square&color=3DE0B2&labelColor=0C1725)
